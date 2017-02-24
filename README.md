@@ -12,5 +12,7 @@ The projects were:
 * [Landlords](https://github.com/CodeTheCity/landlords)
 * [Landlord Code](https://github.com/CodeTheCity/landlord-code) - appears to be empty
 * [Find-It](https://github.com/CodeTheCity/find-it) - also appears to be empty
+* [MCIBA](https://github.com/CodeTheCity/mciba) - also appears to be empty
+ 
 
 
